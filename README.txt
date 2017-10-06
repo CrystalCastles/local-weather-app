@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/CrystalCastles/pen/awxoEo.
+Local weather application.
 
- 
+Uses: HTML, CSS, Javascript + Jquery, FCC Weather API.
