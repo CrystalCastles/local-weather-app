@@ -1,0 +1,64 @@
+body {
+  background-color: #232323;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-size: cover;
+  font-family: Kanit;
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}
+
+.app {
+  background-color: rgba(1, 1, 1, 0.3);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  border: 8px solid white;
+}
+
+.hidden {
+  display: none;
+}
+
+h1 {
+  margin-top: 5px;
+  font-family: Pacifico, sans-serif;
+}
+
+p {
+  font-size: 35px;
+  margin-bottom: 10px;
+}
+
+#city {
+  font-size: 60px;
+}
+
+#weather {
+  position: relative;
+  display: inline;
+  bottom: 20px;
+}
+
+#scale {
+  background-color: white; /* Green */
+  border-radius: 5px;
+  color: #232323;
+  padding: 8px 10px;
+  text-align: center;
+  text-decoration: none;
+  position: relative;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  bottom: 15px;
+  margin-bottom: 10px;
+}
+
+.weather-line {
+  margin-right: 10px;
+}
